@@ -1,4 +1,4 @@
-# Usos de la automatizaciónEstado:
+# Usos de la automatización:
 ```text
 Los scripts pueden utilizarse para automatizar tareas específicas. La automatización se utiliza para sustituir un paso manual repetitivo por otro que se realiza automáticamente. 
 Los humanos son falibles. Pueden cansarse, cometer errores, no seguir las instrucciones, ser incoherentes en el desempeño de su trabajo y mucho más. 
